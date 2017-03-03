@@ -1,0 +1,100 @@
+@charset "utf-8";
+#game2048{
+	position: absolute;
+	top:10px;
+	left:40%;
+	width:500px;
+	height:500px;
+	margin:50px auto;
+	background:#b8af9e;	
+	border-radius:10px;
+ }
+#startBtn{
+	position: absolute;
+	top:220px;
+	left:100px;
+	width:300px;
+	height:50px;
+	padding:10px auto;
+	margin:0px 0px;
+	font-size:30px;
+	background-color:#ffad86;
+	color:#fcfcfc;
+	text-align:center;
+}
+
+#game2048 div.grid{
+	width:100px;
+	height:40px;
+	margin:20px 0 0 20px;
+	padding:30px 0;
+	font-size:40px;
+	line-height:40px;
+	float:left;
+	text-align:center;
+}
+
+#game2048 div.grid0{
+	background-color:#675c47;
+	color:#efe5d0;
+}
+
+#game2048 div.grid0{
+    background: #ccc0b2;
+}
+#game2048 div.grid2
+{
+    color: #7c736a;
+    background: #eee4da;
+}
+#game2048 div.grid4
+{
+    color: #7c736a;
+    background: #ece0c8;
+}
+#game2048 div.grid8
+{
+    color: #fff7eb;
+    background: #f2b179;
+}
+#game2048 div.grid16
+{
+    color:#fff7eb;
+    background:#f59563;
+}
+#game2048 div.grid32
+{
+    color:#fff7eb;
+    background:#f57c5f;
+}
+#game2048 div.grid64
+{
+    color:#fff7eb;
+    background:#f65d3b;
+}
+#game2048 div.grid128
+{
+    color:#fff7eb;
+    background:#edce71;
+}
+#game2048 div.grid256
+{
+    color:#fff7eb;
+    background:#edcc61;
+}
+#game2048 div.grid512
+{
+    color:#fff7eb;
+    background:#ecc850;
+}
+#game2048 div.grid1024
+{
+    color:#fff7eb;
+    background:#edc53f;
+}
+#game2048 div.grid2048
+{
+    color:#fff7eb;
+    background:#eec22e;
+}
+
